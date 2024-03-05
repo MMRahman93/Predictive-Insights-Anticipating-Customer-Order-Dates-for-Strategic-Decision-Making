@@ -14,6 +14,8 @@ Data preprocessing steps include converting data types, filtering out irrelevant
 Exploratory data analysis is performed on the processed data to gain insights into the sales order patterns.
 Visualizations are created using **Matplotlib** and **Seaborn** to illustrate the order frequency over time.
 
+![image](https://github.com/MMRahman93/Predictive-Insights-Anticipating-Customer-Order-Dates-for-Strategic-Decision-Making/assets/30741923/086d0920-21b3-4203-88c4-baf168ed03d1)
+
 **Customer Segmentation:**
 Customer segmentation is not explicitly performed in this project, but we have made another project to segment customers through RFM analysis.
 
